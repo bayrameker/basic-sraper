@@ -57,7 +57,7 @@ Additionally, the project includes NLP processing, flexible data saving (CSV, JS
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/scraper_project.git
+   git clone https://github.com/bayrameker/scraper_project.git
    cd scraper_project
    ```
 
